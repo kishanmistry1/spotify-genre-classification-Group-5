@@ -9,10 +9,8 @@ INST0060 - Group 5 code archive
 ```bash
 python3 main.py dataset.csv -flag 
 ```
-where: 
-
-Flag options: 
-
+<br>where: 
+<br>Flag options: 
 <br>'-run' for running through everything 
 <br>'-RFC' for Random Forest Classifier 
 <br>'-KNN' for K-Nearest Neighbours
