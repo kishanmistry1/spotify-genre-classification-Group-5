@@ -22,17 +22,17 @@ python3 main.py dataset.csv -flag
 
  `spotify-genre-classification-Group-5` is the main Python library implemented for the project.
 
-    - `functions_module` module containing common functions required for data preprocessing, grouping of classes, cross-validation and hyperparameter tuning for each model.
+    - `functions_module`: module containing common functions required for data preprocessing, grouping of classes, cross-validation and hyperparameter tuning for each model.
 
-    - `RFC_module, KNN_module, LR_module, LDA_module` each module contains functions to tune hyperparameters, using cross validation and determine the F1 score on test data for optimal hyperparameter value for the respective model.
+    - `RFC_module, KNN_module, LR_module, LDA_module`: each module contains functions to tune hyperparameters, using cross validation and determine the F1 score on test data for optimal hyperparameter value for the respective model.
 
-    - `main` enables use to run all experiments using file path and flag options as inputs.
+    - `main`: enables user to run all experiments using file path and flag options as inputs.
 
-    - `figures` any figures produced in experiment are saved in this folder as .jpeg files.
+    - `figures`: any figures produced in experiment are saved in this folder as .jpeg files.
     
-    - `dataset.csv` is the original dataset. This is preprocessed and grouped to form the dataset used in experiment.
+    - `dataset.csv`: is the original dataset. This is preprocessed and grouped to form the dataset used in experiment.
     
-    - `./fomlads/` is the supporting Python library provided in INST0060 Foundations of Machine Learning.
+    - `./fomlads/`: is the supporting Python library provided in INST0060 Foundations of Machine Learning.
 
 ## Expected output
 
