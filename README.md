@@ -1,9 +1,9 @@
 # Spotify-Genre-Classification-Group-5
-INST0060 - Group 5 code archive
+INST0060 - Group 5 code archive.
 
-## Instruction
-1. Open terminal
-2. Install the dependencies given in .yml file
+## Instructions
+1. Open terminal.
+2. Install the dependencies given in .yml file.
 3. Run the program with the follow command:
 
 ```bash
@@ -32,7 +32,7 @@ python3 main.py dataset.csv -flag
     
     - `dataset.csv` is the original dataset. This is preprocessed and grouped to form the dataset used in experiment.
     
-- `./fomlads/` is the supporting Python library provided in INST0060 Foundation of Machine Learning, from which `covidcomp` is developed.
+    - `./fomlads/` is the supporting Python library provided in INST0060 Foundations of Machine Learning.
 
 ## Expected output
 
