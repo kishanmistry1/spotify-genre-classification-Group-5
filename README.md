@@ -32,7 +32,7 @@ python3 main.py dataset.csv -flag
     
     - `./fomlads/`: is the supporting Python library provided in INST0060 Foundations of Machine Learning.
     
-    `figures`: any figures produced in experiments are saved as .jpeg files with appropriate titles.
+    Any figures produced in experiments are saved as .jpeg files with appropriate titles.
 
 ## Expected output
 
