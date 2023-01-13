@@ -20,7 +20,7 @@ python3 main.py dataset.csv -flag
 
 ## Structure
 
- `.spotify-genre-classification-Group-5` is the main Python library implemented for the project.
+ `spotify-genre-classification-Group-5` is the main Python library implemented for the project.
 
     - `functions_module` module containing common functions required for data preprocessing, grouping of classes, cross-validation and hyperparameter tuning for each model.
 
@@ -44,4 +44,4 @@ The expected run time is about 11 minutes to run through all experiments. For in
 <br> LR : 100 seconds
 <br> LDA : 6 seconds
 
-<br> Run times may vary
+<br> Run times may vary.
