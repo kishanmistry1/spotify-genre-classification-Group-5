@@ -36,7 +36,7 @@ python3 main.py dataset.csv -flag
 
 ## Expected output
 
-Plots showing the original dataset and grouped dataset are produced. For each model, the optimal hyperparameter, final F1 score on test data and the plots showing the mean F1 score against hyperparameter values is outputted. For Random Forest, a confusion matrix is also produced.
+Plots showing the original dataset and grouped dataset are produced and saved. For each model, the optimal hyperparameter and final F1 score on test data are outputted. The plots showing the mean F1 score against hyperparameter values is produced and saved for each model. For Random Forest, a confusion matrix is also produced and saved.
 
 The expected run time is about 11 minutes to run through all experiments. For individual experiments the approximate run times are:
 <br> RFC : 400 seconds
