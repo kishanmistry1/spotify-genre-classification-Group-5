@@ -4,7 +4,7 @@ INST0060 Foundations of Machine Learning - Group 5 code archive.
 ## Instructions
 1. Open terminal.
 2. Install the dependencies given in .yml file.
-3. Run the program with the follow command:
+3. Run the program with the following command:
 
 ```bash
 python3 main.py dataset.csv -flag 
