@@ -13,9 +13,9 @@ where:
 
 Flag options: 
 
-<>'-run' for running through everything 
-<>'-RFC' for Random Forest Classifier 
-<>'-KNN' for K-Nearest Neighbours
-<>'-LR' for Logisitic Regression
-<>'-LDA' for Fisher's Linear Discriminant
-<>'-h / -H / help' for help
+<br>'-run' for running through everything 
+<br>'-RFC' for Random Forest Classifier 
+<br>'-KNN' for K-Nearest Neighbours
+<br>'-LR' for Logisitic Regression
+<br>'-LDA' for Fisher's Linear Discriminant
+<br>'-h / -H / help' for help
