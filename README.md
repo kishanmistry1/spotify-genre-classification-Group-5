@@ -27,12 +27,12 @@ python3 main.py dataset.csv -flag
     - `RFC_module, KNN_module, LR_module, LDA_module`: each module contains functions to tune hyperparameters (using cross-validation) and determine the F1 score on test data for optimal hyperparameter value for the respective model.
 
     - `main`: enables user to run all experiments using file path and flag options as inputs.
-
-    - `figures`: any figures produced in experiments are saved as .jpeg files.
-    
+   
     - `dataset.csv`: is the original dataset. This is preprocessed and grouped to form the dataset used in experiments.
     
     - `./fomlads/`: is the supporting Python library provided in INST0060 Foundations of Machine Learning.
+    
+    `figures`: any figures produced in experiments are saved as .jpeg files with appropriate titles.
 
 ## Expected output
 
